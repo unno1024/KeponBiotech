@@ -14,7 +14,7 @@ Food testing industry, environmental monitoring, pharmaceutical inspection and p
 ## Contact & Inquiry
 - Official Website: https://global.kpbioie.com/
 - Contact Page: https://global.kpbioie.com/contact/
-- Business Email: info@kpbioie.cn
+- Business Email: info@kpbioie.com
 - Phone: +86 15000556234
 - WhatsApp: +86 15000556234
 
