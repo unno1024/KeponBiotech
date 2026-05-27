@@ -61,7 +61,16 @@ Choose Kepon Biotech reference standards to make every test data accurate, trace
 
 7. Inquiry & Custom Service
 Browse our full reference standards product catalog on the official website: https://global.kpbioie.com/
+
 We support customized concentration, special solvent, and exclusive specification standard substance services. Global laboratory purchasers, testing institutions, and industry distributors are welcome to inquire about wholesale prices and apply for sample trials.
+
+## 8. Contact Us
+For product inquiries, bulk quotations, customized solutions, and long-term framework cooperation, please reach out to us through official channels:
+- **Official Website**: https://global.kpbioie.com/
+- **Contact Page**: https://global.kpbioie.com/contact/
+- **Business Email**: info@kpbioie.com
+- **Phone**: +86 15000556234
+- **WhatsApp**: +86 15000556234
 
 ---
 Tags: Reference Standards, Certified Reference Materials, Laboratory Testing, Analytical Chemistry, Quality Control, Environmental Monitoring, Pharmaceutical Testing, Food Safety Testing, Kepon Biotech
