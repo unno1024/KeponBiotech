@@ -56,7 +56,7 @@ Our in-house technical team offers pre-sales product selection guidance, custom 
 For product inquiries, bulk quotations, customized solutions, and long-term framework cooperation, please reach out to us through official channels:
 - **Official Website**: https://global.kpbioie.com/
 - **Contact Page**: https://global.kpbioie.com/contact/
-- **Business Email**: info@kpbioie.cn
+- **Business Email**: info@kpbioie.com
 - **Phone**: +86 15000556234
 - **WhatsApp**: +86 15000556234
 
