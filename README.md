@@ -75,6 +75,6 @@ If you cannot find target products online, please contact us for custom sourcing
 ## Contact & Inquiry
 - Official Website: https://global.kpbioie.com/
 - Contact Page: https://global.kpbioie.com/contact/
-- Business Email: info@kpbioie.cn
+- Business Email: info@kpbioie.com
 - Phone: +86 15000556234
 - WhatsApp: +86 15000556234
