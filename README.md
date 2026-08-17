@@ -1,7 +1,7 @@
 # Shanghai Kepon Biotech / KPBioIE – Global Cross-Border Supply
 **Official Website**: https://global.kpbioie.com/
 
-We are a one-stop cross-border supplier dedicated to life sciences, biopharmaceutical research, and new energy lithium battery industries. Our goal is to connect high-quality global resources and deliver reliable, compliant products and services to research institutions, biopharma enterprises, and new energy manufacturers worldwide.
+We are a one‑stop cross‑border supplier dedicated to life sciences and biopharmaceutical research industries. Our goal is to connect high‑quality global resources and deliver reliable, compliant products and services to research institutions and biopharma enterprises worldwide.
 
 ---
 
@@ -29,21 +29,12 @@ We offer a full range of research-grade products to support academic and industr
 
 ---
 
-## 🔋 Lithium Battery Materials
-We supply high-quality raw materials for battery R&D and production:
-
-- **Cathode & Anode Materials**
-- **Electrolytes & Additives**
-- **Battery-Grade Lithium Salts & Precursors**
-- **Specialty Materials for Solid-State Batteries**
-
----
-
 ## 🌐 Cross-Border & Compliance Services
 - **One-Stop Procurement** – Single point of contact for multi-supplier sourcing
 - **Regulatory & Compliance Consulting** – Import/export, customs clearance, and documentation support
 - **Cold Chain & Controlled Logistics** – Temperature-controlled shipping for sensitive biological products
 - **Special Item Handling** – Expertise in controlled substances and restricted materials
+- **Transport Identification Report Agency** – Agent service for transport safety identification reports
 
 ---
 
@@ -51,7 +42,6 @@ We supply high-quality raw materials for battery R&D and production:
 - Top universities and research institutes
 - Biotech and pharmaceutical companies
 - CRO/CDMO organizations
-- New energy battery manufacturers
 
 ---
 
