@@ -1,7 +1,7 @@
 # [Kepon Biotech](https://global.kpbioie.com/) (KPBioIE) – Global Cross-Border Supplier for Life Science
-*One-Stop Solution for Biochemical Reagents, Standard Substances, Lab Consumables, and Lithium Battery Raw Materials*
+*One-Stop Solution for Biochemical Reagents, Standard Substances, Lab Consumables*
 
-Welcome to the official GitHub Pages documentation hub of **Kepon Biotech (KPBioIE)**, your reliable partner for global cross-border procurement of life science research materials and lithium battery new energy raw materials.
+Welcome to the official GitHub Pages documentation hub of **Kepon Biotech (KPBioIE)**, your reliable partner for global cross-border procurement of life science research materials.
 
 This site serves as a structured knowledge base for researchers, procurement managers, and industrial buyers worldwide, providing clear product introductions, procurement guidelines, quality control standards, and contact information.
 
