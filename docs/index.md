@@ -8,11 +8,10 @@ This site serves as a structured knowledge base for researchers, procurement man
 ---
 
 ## 1. Who We Are
-**[Shanghai Kepon Biotech](https://global.kpbioie.com/) (Operating Brand: KPBioIE)** is a professional international supplier headquartered in Shanghai, China, focusing on two core industrial sectors:
+**[Shanghai Kepon Biotech](https://global.kpbioie.com/) (Operating Brand: KPBioIE)** is a professional international supplier headquartered in Shanghai, China, focusing on core industrial sector:
 - **Life Science & Biopharmaceutical Raw Materials**: Full-line biochemical reagents, biological products, cell culture media, certified standard substances, and laboratory consumables for academic research, pharmaceutical development, and testing laboratories.
-- **Lithium Battery New Energy Materials**: Cathode/anode materials, electrolytes, separators, functional additives, and supporting raw materials for battery R&D, pilot testing, and industrial mass production.
 
-With stable long-term supply capabilities and standardized cross-border logistics services, we serve more than 50 countries and regions, including Europe, Central Asia, Southeast Asia, and North America.
+With stable long-term supply capabilities and standardized cross-border logistics services, With stable long‑term supply capabilities and standardized one‑stop cross‑border compliance & logistics services, we serve customers across **five continents worldwide**, covering Europe, Asia, Africa, North America and South America.
 
 ---
 
@@ -26,22 +25,22 @@ Click the links below to view detailed product information and specifications:
 - [Molecular Biology Products](./molecular-biology-products.md)
 - [Standard Substances & Certified Reference Materials](./standard-substance.md)
 - [Test Reagents & Indicators](./test-reagents-indicators.md)
-- [Lithium Battery Materials](./lithium-battery-materials.md)
 
 ---
 
 ## 3. Why Choose Kepon Biotech?
 ### ✅ Full-Coverage Product Portfolio
-From basic laboratory reagents to high-purity certified standards and industrial-grade battery materials, we integrate all core raw materials required for scientific research and manufacturing into one single platform, eliminating the complexity of multi-vendor procurement.
+From basic laboratory reagents to high‑purity certified standards, we integrate all core raw materials required for scientific research and testing work into one single platform, eliminating the complexity of multi‑vendor procurement.
 
 ### ✅ Strict Quality & Compliance Control
 All products are produced and tested under ISO 9001-aligned quality management systems, with complete batch-specific COA, MSDS, and traceability records. We comply with international standards such as FDA, CE, and ICH to ensure data reproducibility and regulatory compliance.
 
-### ✅ Professional Cross-Border Logistics
-We provide end-to-end logistics solutions, including cold-chain transportation for temperature-sensitive biological products, dangerous goods declaration for battery materials, and complete export documentation to support customers’ local customs clearance. Our on-time delivery rate reaches 99.8%.
+### ✅ Professional One‑Stop Cross‑Border Logistics & Compliance Service
+
+We provide end‑to‑end full‑agency solutions including pre‑shipment risk assessment, special‑goods approval, commodity inspection, transport identification report application, customs declaration, international cold‑chain / ambient‑temperature transportation and destination customs clearance for temperature‑sensitive biological and chemical products. Our on‑time delivery rate reaches 99.8%.
 
 ### ✅ Customized Services & Technical Support
-Our in-house technical team offers pre-sales product selection guidance, custom formulation services, and post-sales experimental troubleshooting to help you solve complex R&D and procurement challenges.
+Our in‑house technical team offers pre‑sales product selection guidance, custom formulation services, and post‑sales experimental troubleshooting to help you solve complex R&D and procurement challenges.
 
 ---
 
@@ -54,7 +53,8 @@ Our in-house technical team offers pre-sales product selection guidance, custom 
 
 ## 5. Contact Us
 For product inquiries, bulk quotations, customized solutions, and long-term framework cooperation, please reach out to us through official channels:
-- **Official Website**: https://global.kpbioie.com/
+- **China Official Website**: https://www.kpbioie.com/
+- **Global Official Website**: https://global.kpbioie.com/
 - **Contact Page**: https://global.kpbioie.com/contact/
 - **Business Email**: info@kpbioie.com
 - **Phone**: +86 15000556234
@@ -62,4 +62,4 @@ For product inquiries, bulk quotations, customized solutions, and long-term fram
 
 ---
 
-**Tags**: KeponBiotech, KPBioIE, Biochemical Reagents, Standard Substances, Lab Consumables, Cell Culture Products, Lithium Battery Materials, Life Science Research, Global Cross-Border Supplier, Laboratory Raw Materials, Industrial New Energy Materials
+**Tags**: KeponBiotech, KPBioIE, Biochemical Reagents, Standard Substances, Lab Consumables, Cell Culture Products, Life Science Research, Global Cross‑Border Supplier, Laboratory Raw Materials, Special‑goods Approval, Cold‑chain Logistics, Customs Clearance Compliance
